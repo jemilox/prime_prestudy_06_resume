@@ -17,7 +17,7 @@ html, body {
 
 header {
   height: 10%;
-  font-family: 'Playball', cursive;
+  font-family: 'Poiret One', cursive;
   font-size:12em;
 
    color: black;
@@ -35,13 +35,15 @@ header {
   text-align: left;
   clear: both;
   float: right;
-  margin-top: 5%;
-  
+  margin-top: 2%;
+
 }
 
 .menu {
   text-align: left;
   font-size: 2em;
-  padding-left: 10%;
-
+  padding-left: 5%;
+  padding-top: 2%;
+  color: #714409;
+  font-family: 'Poiret One', cursive;
 }
